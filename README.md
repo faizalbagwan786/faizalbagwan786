@@ -1,13 +1,19 @@
 <h1 align="center">Hi, I'm Faizal Bagwan 👋</h1>
 
 <p align="center">
-<b>DevOps Engineer</b> | Infrastructure Automation • CI/CD Pipelines • Cloud & Containerization
+<b>Cloud & DevOps Engineer</b> | Infrastructure Automation • CI/CD Pipelines • Cloud & Containerization
 </p>
 
 <p align="center">
 I build automated, secure, and scalable infrastructure using Linux, CI/CD pipelines,
 containers, and cloud-native tooling. My focus is on reliability, automation,
 and production-ready DevOps practices.
+</p>
+
+<p align="center">
+🌐 <b>Portfolio:</b> <a href="https://faizalbagwan786.github.io" target="_blank">
+https://faizalbagwan786.github.io
+</a>
 </p>
 
 ---
@@ -54,22 +60,25 @@ and production-ready DevOps practices.
 - Designing and optimizing CI/CD pipelines using GitHub Actions, Jenkins, and GitLab CI
 - Integrating code quality and security scans using SonarQube and Trivy
 - Automating infrastructure using Ansible and Terraform
-- Deploying containerized applications on Kubernetes in cloud environments
+- Deploying containerized applications on Kubernetes and AWS environments
 
 ---
 
 ## 🚀 Featured Work
-- CI/CD pipelines with quality and security gates  
-- Infrastructure automation using IaC principles  
-- Cloud-native deployments with monitoring and rollback strategies  
+- Production-style CI/CD pipelines with quality and security gates  
+- Infrastructure automation using Infrastructure as Code (IaC) principles  
+- Cloud-native deployments with monitoring and secure rollout strategies  
+- 🌐 **Live portfolio with detailed project breakdowns:**  
+  https://faizalbagwan786.github.io  
 
 ---
 
 ## 📫 Contact
-- 📧 faizalmohdrafiquebagwan@gmail.com  
-- 🔗 https://www.linkedin.com/in/faizalbagwan  
+- 📧 Email: faizalmohdrafiquebagwan@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/faizalbagwan  
+- 💻 GitHub: https://github.com/faizalbagwan786  
 
 ---
 
 ### 🧠 DevOps Philosophy
-Automation first. Security by default. Reliability always.
+**Automation first. Security by default. Reliability always.**
