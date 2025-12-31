@@ -11,7 +11,7 @@ and production-ready DevOps practices.
 </p>
 
 <p align="center">
-🌐 <b>Portfolio:</b> <a href="https://faizalbagwan786.github.io" target="_blank">
+🌐 <b>Portfolio:</b> <a href="https://faizalbagwan.github.io" target="_blank">
 https://faizalbagwan786.github.io
 </a>
 </p>
