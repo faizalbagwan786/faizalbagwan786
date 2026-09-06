@@ -1,84 +1,33 @@
-<h1 align="center">Hi, I'm Faizal Bagwan 👋</h1>
+# Hi, I'm Faizal Bagwan 👋
 
-<p align="center">
-<b>Cloud & DevOps Engineer</b> | Infrastructure Automation • CI/CD Pipelines • Cloud & Containerization
-</p>
+**Fresh CS Graduate | DevOps & Cloud Learner | OCI Certified**
 
-<p align="center">
-I build automated, secure, and scalable infrastructure using Linux, CI/CD pipelines,
-containers, and cloud-native tooling. My focus is on reliability, automation,
-and production-ready DevOps practices.
-</p>
+I'm a Computer Science graduate from Pune University (2025) building hands-on DevOps skills. I hold the **Oracle Cloud Infrastructure (OCI) DevOps Professional** certification and spend my time working with CI/CD pipelines, Docker, Linux, and AWS.
 
-<p align="center">
-🌐 <b>Portfolio:</b> <a href="https://faizalbagwan.github.io" target="_blank">
-https://faizalbagwan786.github.io
-</a>
-</p>
+## 🔧 What I Work With
 
----
+| Category | Tools |
+|----------|-------|
+| **CI/CD** | Jenkins, Jenkinsfile Pipelines, SonarQube, GitHub Webhooks |
+| **Containers** | Docker, Docker Compose, Nginx Reverse Proxy |
+| **Cloud** | AWS (EC2, S3, VPC, IAM, Security Groups) |
+| **Linux** | Ubuntu, CentOS, Bash Scripting, Systemd, Cron |
+| **Scripting** | Python, Bash, Git |
 
-## 🛠️ DevOps Stack
+## 📂 Featured Projects
 
-### Operating System & Scripting
-<p align="center">
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-</p>
+| Project | What It Does | Stack |
+|---------|-------------|-------|
+| [CI/CD Pipeline + SonarQube](https://github.com/faizalbagwan786/Python-Project-For--Sonar-Demo-main) | Auto-builds & scans Python code on every Git push | Jenkins, SonarQube, Python |
+| [3-Tier Docker App](https://github.com/faizalbagwan786/3-Tier-NodeJS-MySql-Docker-main) | Full-stack app in 3 containers with Nginx proxy | Docker Compose, Node.js, MySQL, Nginx |
+| [Server Monitoring Scripts](https://github.com/faizalbagwan786/NodeJS-Monitoring-Project) | Bash/Python scripts for server health & log parsing | Linux, Bash, Python, Cron, Systemd |
 
-### CI/CD & Source Control
-<p align="center">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
-</p>
+## 🎯 Currently
+- Looking for my first DevOps / Cloud Infrastructure role (Pune, India)
+- Building more projects and contributing to open source
+- Immediate joiner
 
-### Containers & Orchestration
-<p align="center">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-</p>
-
-### Infrastructure as Code & Cloud
-<p align="center">
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-</p>
-
-### Security & Observability
-<p align="center">
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-</p>
-
----
-
-## 🔧 Current Focus Areas
-- Designing and optimizing CI/CD pipelines using GitHub Actions, Jenkins, and GitLab CI
-- Integrating code quality and security scans using SonarQube and Trivy
-- Automating infrastructure using Ansible and Terraform
-- Deploying containerized applications on Kubernetes and AWS environments
-
----
-
-## 🚀 Featured Work
-- Production-style CI/CD pipelines with quality and security gates  
-- Infrastructure automation using Infrastructure as Code (IaC) principles  
-- Cloud-native deployments with monitoring and secure rollout strategies  
-- 🌐 **Live portfolio with detailed project breakdowns:**  
-  https://faizalbagwan786.github.io  
-
----
-
-## 📫 Contact
-- 📧 Email: faizalmohdrafiquebagwan@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/faizalbagwan  
-- 💻 GitHub: https://github.com/faizalbagwan786  
-
----
-
-### 🧠 DevOps Philosophy
-**Automation first. Security by default. Reliability always.**
+## 📫 Reach Me
+- **Email:** faizalmohdrafiquebagwan@gmail.com
+- **LinkedIn:** [linkedin.com/in/faizalbagwan](https://www.linkedin.com/in/faizalbagwan/)
+- **Location:** Pune, Maharashtra, India
